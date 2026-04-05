@@ -1,0 +1,43 @@
+course_name = "土木环境类跨专业课程"
+course_code = "Cross-CEEV"
+repo_type = "multi-project"
+description = """
+本仓库包含智能土木与海洋工程学院和生态环境学院开设的土木环境类跨专业课程。
+"""
+
+[[courses]]
+name = "水力学"
+
+[[courses.teachers]]
+name = "刘彤宙"
+
+[[courses.teachers.reviews]]
+content = "刘彤宙老师授课挺好的，但是课本身难度较高，点名和小测会提前通知，小测开卷"
+author = { name = "Y-Sensi", link = "https://github.com/Y-Sensi", date = "2025-01" }
+
+[[courses]]
+name = "污染控制微生物学"
+
+[[courses.teachers]]
+name = "韩炜"
+
+[[courses.teachers.reviews]]
+content = """
+会有不定时考勤，不过不会凭此挂人。上课不怎么讲知识点，老师会讲一些自己的见解。
+实验共五个，分别是显微镜、革兰氏染色、接种、细菌测数和PCR，实验都很简单，老师很好，而且实验仪器很好玩（PCR分析仪价格可是不菲的）。
+24春有开卷期末考，25春起取消期末考，改为课堂汇报代替。
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-07" }
+
+[[courses]]
+name = "环境学"
+
+[[courses.sections]]
+title = "课程概况"
+
+[[courses.sections.items]]
+content = """
+课堂汇报内容与环境学相关即可，六七个人一组，汇报时间在 15 分钟左右，要求使用英文汇报，老师会用英文提问 ppt 相关内容，要求使用英文回答
+最后结课论文的内容就是你在小组汇报中负责的内容，要求使用英文撰写，长度五到六页左右
+"""
+author = { name = "Cecilia", link = "https://github.com/mircecilia/", date = "2025-01" }
